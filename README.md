@@ -1,0 +1,2 @@
+# NumPy-Basics-Arrays-Vectorized-Computation
+It includes the basic and advance numpy array manipulations. The topics like indexing, slicing, fast element array-wise functions, mathematical and statistical methods,  filing, linear algebra functions, pseudo-random numbers, reshaping, splitting, concatenating,tiles, repeating, where( ) function &amp; numpy advanced array manipulation are implemented.
